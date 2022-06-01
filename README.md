@@ -8,7 +8,7 @@
 
 ## Routing
 
-
+![Routing_opamp](https://user-images.githubusercontent.com/88882040/171336853-0e316d13-b8db-4951-a281-b716b8e25d6b.png)
 
 ## DRC
 
