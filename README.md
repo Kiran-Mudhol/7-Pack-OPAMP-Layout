@@ -1,1 +1,1 @@
-# 7-Pack-OPAMP-Layout
+# 7 Pack OPAMP Layout
