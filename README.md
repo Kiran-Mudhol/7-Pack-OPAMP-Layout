@@ -17,3 +17,11 @@
 ## LVS
 
 ![LVS_2](https://user-images.githubusercontent.com/88882040/171332474-431e8402-1819-42ea-9ac9-ad4304c8fad9.png)
+
+## Acknowledgements
+* KLE Technological University
+* eklakshya Innovation Labs Hubballi
+
+## Author
+ Kiran K. Mudhol <br /> 
+ Studnet at KLE Technological University Hubballi
